@@ -7,7 +7,10 @@
   "plugins": [
     {
       "name": "flint",
-      "source": ".",
+      "source": {
+        "source": "github",
+        "repo": "thefraudfather/flint-plugin"
+      },
       "description": "Know Your Agent at transaction time: verify an AI agent's integrity and authority with FLINT before it moves money. Bundles the FLINT remote connector and the verify-before-pay skill."
     }
   ]
