@@ -1,0 +1,12 @@
+{
+  "name": "flint",
+  "version": "0.1.0",
+  "description": "Know Your Agent at transaction time: verify an AI agent's integrity and authority with FLINT before it moves money. Bundles the FLINT remote connector and a skill that runs the verify-before-pay loop.",
+  "author": {
+    "name": "KillChain, Inc. (d/b/a FLINT Network)",
+    "email": "contact@flint.network",
+    "url": "https://flint.network"
+  },
+  "homepage": "https://flint.network/connect",
+  "license": "MIT"
+}

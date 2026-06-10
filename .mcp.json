@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "flint": {
+      "type": "streamable-http",
+      "url": "https://flint.network/mcp"
+    }
+  }
+}
