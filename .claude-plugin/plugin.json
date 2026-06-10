@@ -1,5 +1,6 @@
 {
   "name": "flint",
+  "displayName": "FLINT Cross-Domain Agent Passport",
   "version": "0.1.0",
   "description": "Know Your Agent at transaction time: verify an AI agent's integrity and authority with FLINT before it moves money. Bundles the FLINT remote connector and a skill that runs the verify-before-pay loop.",
   "author": {
